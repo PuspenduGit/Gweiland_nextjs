@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  ::-webkit-scrollbar {
+    width: 0; /* Remove scrollbar space */
+    /* background: "#f1f1f1"; */
+  }
+}

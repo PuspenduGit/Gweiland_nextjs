@@ -1,0 +1,85 @@
+{
+  "items": {
+    "carousels": [
+      {
+        "id": 1,
+        "title": "Photography",
+        "body": "Bootstrap Carousel Example",
+        "imageUrl": "/assets/image_carousel/carousel1.png",
+        "alt": "First slide"
+      },
+      {
+        "id": 2,
+        "title": "Photography",
+        "body": "Bootstrap Carousel Example",
+        "imageUrl": "/assets/image_carousel/carousel2.png",
+        "alt": "Second slide"
+      },
+      {
+        "id": 3,
+        "title": "Photography",
+        "body": "Bootstrap Carousel Example",
+        "imageUrl": "/assets/image_carousel/carousel3.png",
+        "alt": "Third slide"
+      },
+      {
+        "id": 4,
+        "title": "Photography",
+        "body": "Bootstrap Carousel Example",
+        "imageUrl": "/assets/image_carousel/carousel4.png",
+        "alt": "Fourth slide"
+      },
+      {
+        "id": 5,
+        "title": "Photography",
+        "body": "Bootstrap Carousel Example",
+        "imageUrl": "/assets/image_carousel/carousel5.png",
+        "alt": "First slide"
+      }
+    ],
+    "nfts": [
+      {
+        "id": 1,
+        "title": "pendulum",
+        "imageUrl": "/assets/nft_carousel/nft1.png",
+        "alt": "First slide",
+        "bgcolor": "black"
+      },
+      {
+        "id": 2,
+        "title": "vudu brigada",
+        "imageUrl": "/assets/nft_carousel/nft2.png",
+        "alt": "Second slide",
+        "bgcolor": "black"
+      },
+      {
+        "id": 3,
+        "title": "$HOSKY",
+        "imageUrl": "/assets/nft_carousel/nft3.png",
+        "alt": "Third slide",
+        "bgcolor": "#236BD3"
+      },
+      {
+        "id": 4,
+        "title": "Future Fest",
+        "imageUrl": "/assets/nft_carousel/nft4.png",
+        "alt": "Fourth slide",
+        "bgcolor": "black"
+      },
+      {
+        "id": 5,
+        "title": "CryptoRaggies",
+        "imageUrl": "/assets/nft_carousel/nft5.png",
+        "alt": "Fifth slide",
+        "bgcolor": "#FF8A8A"
+      },
+      {
+        "id": 6,
+        "title": "bitfins",
+        "imageUrl": "/assets/nft_carousel/nft6.png",
+        "alt": "Sixth slide",
+        "bgcolor": "#091F2C"
+      }
+    ]
+  }
+}
