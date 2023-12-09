@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-import Script from 'next/script';
 import Announcement from "../app/(components)/Announcement";
 import Nav from "../app/(components)/Nav";
 import "./globals.css";
@@ -19,7 +18,6 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <Script src="https://code.jquery.com/jquery-3.6.0.min.js" />
       <body className={inter.className}>
         <div className="flex flex-col h-screen max-h-screen overflow-hidden">
           <div className="overflow-auto">
