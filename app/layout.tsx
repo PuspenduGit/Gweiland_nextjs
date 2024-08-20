@@ -23,9 +23,7 @@ export default function RootLayout({
           <div className="overflow-auto">
             <Announcement />
             <Nav />
-            <div className="flex-grow z-11">
-              {children}
-            </div>
+            <div className="flex-grow z-11">{children}</div>
           </div>
         </div>
       </body>
